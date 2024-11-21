@@ -12,6 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img 
 <a href="https://codepen.io/pancetita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="pancetita" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/gianfranco-canciani-6a5189255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gianfranco-canciani-6a5189255" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/gianfranco c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gianfranco c" height="30" width="40" /></a>
