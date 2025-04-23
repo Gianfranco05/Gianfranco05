@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
 - 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning Java and python
+- 🌱 I’m currently learning Java
 - 🤔 I’m looking for help with Node.js
 - 💬 Ask me about what you need
 - ⚡ Fun fact: I program on paper
