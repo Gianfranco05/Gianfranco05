@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my portfolio<br>🌱 I’m currently learning Java<br>🤔 I’m looking for help with Node.js<br>💬 Ask me about what you need<br>⚡ Fun fact: I program on paper
+🔭 I’m currently working on my portfolio<br>🌱 I’m currently learning MongoDB<br>🤔 I’m looking for help with Node.js<br>💬 Ask me about what you need<br>⚡ Fun fact: I program on paper
 
 
 ## 🌐 Socials:
