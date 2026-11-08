@@ -12,11 +12,11 @@
 
 ## 🧑‍💻 Sobre mí
 
-- Desarrollo backend con **Python (FastAPI)** y **Java (Spring Boot)**, y armo los frontends en **React + TypeScript**.
+- Desarrollo backend con **Python (FastAPI)** y **Java (Spring Boot)**, y armo los frontends en **React + TypeScript**. También hago **apps mobile para Android con React Native y Expo**.
 - 👨‍🏫 **Profesor en el Instituto Celsius** desde enero de 2026: algoritmos, Java, JPA, Spring Boot, HTML y CSS.
 - 🎓 **Tutor en la UTN** desde febrero de 2026: Programación III y IV, con Python, FastAPI y React.
 - 🛡️ Mi tesis es un **SIEM con machine learning** que detecta anomalías en logs (Isolation Forest + DBSCAN + reglas de correlación).
-- 🧪 En mi portafolio hay un **Lab** donde podés probar demos de mis proyectos directo en el navegador, sin instalar nada.
+- 🧪 En mi portafolio hay un **Lab** donde podés probar demos de mis proyectos directo en el navegador, sin instalar nada: reconocimiento facial, matching de YouTube a Spotify, detección de anomalías y un visualizador de algoritmos.
 
 ## 🚀 Proyectos destacados
 
@@ -28,6 +28,7 @@
 | **Ecommerce PetaByte** | Tienda de componentes de hardware con carrito y pagos con Mercado Pago | Java · Spring Boot · React · PostgreSQL | [Front](https://github.com/Gianfranco05/EcommercePetaByte) · [Back](https://github.com/Gianfranco05/E-commerce_Back) |
 | **FoodStore** | Delivery de comida con seguimiento de pedidos en vivo | FastAPI · React · TypeScript · MySQL · WebSocket · JWT | [Repo](https://github.com/Gianfranco05/FoodStore_SDD_Canciani) |
 | **Agenda Personal** | Notas, calendario de eventos y finanzas personales en una sola app | FastAPI · React · TypeScript · PostgreSQL | [Repo](https://github.com/Gianfranco05/AgendaPersonalWeb) |
+| **Agenda Personal Mobile** | La versión Android de la agenda: notas, calendario de eventos y finanzas, sobre el mismo backend | React Native · Expo · TypeScript · FastAPI · PostgreSQL | Repo próximamente |
 
 ## 🛠️ Tecnologías
 
